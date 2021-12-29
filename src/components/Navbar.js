@@ -6,13 +6,17 @@ import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import './styles.css'
 import logo from '../images/zoomcar-logo.png'
-
+import Menu from './Menu'
 
 const Navbar = () => {
+ 
   return (
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static" sx={{ bgcolor: "black" }}>
         <Toolbar>
+          <div style={{marginleft: '0px' }}>
+            <Menu/>
+          </div>
           <Typography style={{ flex: 1 }} >
             <img src={logo} alt="logo here" height={80} width={160} />
           </Typography>

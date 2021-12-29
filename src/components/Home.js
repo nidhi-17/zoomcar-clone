@@ -15,12 +15,12 @@ import { useState } from 'react';
 
 const Home = () => {
 
-   
-
     const [open, setOpen] = useState(false);
-    const handleOpen = () => setOpen(true);
+    const handleOpen = () => {
+        setOpen(true);
+    }
     const handleClose = () => setOpen(false);
-
+    
     const style = {
         position: 'absolute',
         top: '50%',
@@ -63,7 +63,7 @@ const Home = () => {
                 <br /> <br /> <br /><br />
             </FormControl>
 
-        </div>
+        </div >
     );
 }
 
