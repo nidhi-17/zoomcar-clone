@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/zoomcar-clone/static/css/main.07a6c6bd.css",
-    "main.js": "/zoomcar-clone/static/js/main.3e5002a1.js",
+    "main.css": "/zoomcar-clone/static/css/main.266daccf.css",
+    "main.js": "/zoomcar-clone/static/js/main.7a6f2449.js",
     "static/js/787.f6b171f3.chunk.js": "/zoomcar-clone/static/js/787.f6b171f3.chunk.js",
     "static/media/desktop.png": "/zoomcar-clone/static/media/desktop.fcab9034c9124c53d13c.png",
     "static/media/zoomcar-logo.png": "/zoomcar-clone/static/media/zoomcar-logo.7090229318d45db53c2d.png",
     "index.html": "/zoomcar-clone/index.html",
-    "main.07a6c6bd.css.map": "/zoomcar-clone/static/css/main.07a6c6bd.css.map",
-    "main.3e5002a1.js.map": "/zoomcar-clone/static/js/main.3e5002a1.js.map",
+    "main.266daccf.css.map": "/zoomcar-clone/static/css/main.266daccf.css.map",
+    "main.7a6f2449.js.map": "/zoomcar-clone/static/js/main.7a6f2449.js.map",
     "787.f6b171f3.chunk.js.map": "/zoomcar-clone/static/js/787.f6b171f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07a6c6bd.css",
-    "static/js/main.3e5002a1.js"
+    "static/css/main.266daccf.css",
+    "static/js/main.7a6f2449.js"
   ]
 }
