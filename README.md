@@ -4,3 +4,5 @@
 
 ### Basic filtering , searching and pagination features implemented
 
+### Technology Used: React js
+
